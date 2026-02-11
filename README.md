@@ -1,1 +1,11 @@
-# math
+# Matboj len príklady
+- [2022 február kategórie 5-6](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2022f-56.pdf)
+- [2022 február kategórie 7-9](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2022f-789.pdf)
+- [2022 november kategórie 5-6](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2022n-56.pdf)
+- [2022 november kategórie 7-9](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2022f-789.pdf)
+- [2023 Trnava kategórie 5-6](https://github.com/adjointfunctor/math/raw/main/questions-Tmatboj-2023-56.pdf)
+- [2023 Trnava kategórie 7-8](https://github.com/adjointfunctor/math/raw/main/questions-Tmatboj-2023-78.pdf)
+- [2024 kategórie 5-6](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2024-56.pdf)
+- [2024 kategórie 7](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2024-7.pdf)
+- [2025 kategórie 5-6](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2025-56.pdf)
+- [2025 kategórie 7](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2025-7.pdf)
