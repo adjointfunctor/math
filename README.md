@@ -1,11 +1,7 @@
-# Matboj len príklady
-- [2022 február kategórie 5-6](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2022f-56.pdf)
-- [2022 február kategórie 7-9](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2022f-789.pdf)
-- [2022 november kategórie 5-6](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2022n-56.pdf)
-- [2022 november kategórie 7-9](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2022n-789.pdf)
-- [2023 Trnava kategórie 5-6](https://github.com/adjointfunctor/math/raw/main/questions-Tmatboj-2023-56.pdf)
-- [2023 Trnava kategórie 7-8](https://github.com/adjointfunctor/math/raw/main/questions-Tmatboj-2023-78.pdf)
-- [2024 kategórie 5-6](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2024-56.pdf)
-- [2024 kategórie 7](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2024-7.pdf)
-- [2025 kategórie 5-6](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2025-56.pdf)
-- [2025 kategórie 7](https://github.com/adjointfunctor/math/raw/main/questions-matboj-2025-7.pdf)
+# Matboj
+Súbory iba s príkladmi, zlúčené pre všetky kategórie. Úlohy pre mladšich označené A, pre starších označené B.
+- [2022 február](https://github.com/adjointfunctor/math/raw/main/matboj-2022f-questions.pdf)
+- [2022 november](https://github.com/adjointfunctor/math/raw/main/matboj-2022n-questions.pdf)
+- [2023 Trnava](https://github.com/adjointfunctor/math/raw/main/Tmatboj-2023-questions.pdf)
+- [2024](https://github.com/adjointfunctor/math/raw/main/matboj-2024-questions.pdf)
+- [2025](https://github.com/adjointfunctor/math/raw/main/matboj-2025-questions.pdf)
