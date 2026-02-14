@@ -1,4 +1,5 @@
 # Matboj
+Veľmi pekná súťaž, tu: [akcie.p-mat.sk/matboj/](https://akcie.p-mat.sk/matboj/) .
 Súbory vhodné na **tlač**, iba s príkladmi, bez riešení, zlúčené pre všetky kategórie. Úlohy pre mladšich označené A, pre starších označené B.
 - [2022 február](https://github.com/adjointfunctor/math/raw/main/matboj-2022f-questions.pdf)
 - [2022 november](https://github.com/adjointfunctor/math/raw/main/matboj-2022n-questions.pdf)
